@@ -1,3 +1,2 @@
 # helloword
-123
-null
+有意思
